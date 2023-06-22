@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Fecha="2023-06-15T21:24:56" Sello="aGXApBe50ShTjJp5AJJKrsLXm24cbJS1WzqNEUpgMnDqEQja2Hdfwit0RGk+zaxOP196NQHmraf+wxgNnd3czf2/FW9gvhH+maMTe6JxdZUjs9nbxwGzr/+IcTF7eEb5AqwFGDUUNl6HcNUde6vk64/Gi6XDMJrGlXJYPnJSIC4Uojhkksq0msUJIiLxO9CaupEXWTWAWoka/esV9J8bB7vyc4xcPuj+LNbevXg+sdW5oJBhLmFR+nju0pQza6LNEh1+j3G+uCBOyu+fy4HcFF5J/TBFa8OWguViJhOIetO+3aPDKvAhm46tntoeot3YSf8S5UOeEhyEudOTehP4vw==" FormaPago="99" NoCertificado="00001000000513868674" Certificado="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" SubTotal="20123.00" Moneda="MXN" Total="23342.68" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="56370" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor Rfc="MATE7811167S9" Nombre="EDDER GIOVANNI MARQUEZ TOLENTINO" RegimenFiscal="621" />
+  <cfdi:Receptor Rfc="SSI190903US2" Nombre="SLTI SOLUCIONES INTEGRALES EN LOGISTICA Y TRANSPORTE" DomicilioFiscalReceptor="52928" RegimenFiscalReceptor="601" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="81141601" NoIdentificacion="1" Cantidad="1.00" ClaveUnidad="E48" Unidad="Unidad de servicio" Descripcion="DIA 07 DE MAYO DEL 2023 CARGA EN DS IZTAPALAPA PLACAS 38AA4J" ValorUnitario="2785" Importe="2785.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2785.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="445.60" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="81141601" NoIdentificacion="2" Cantidad="1.00" ClaveUnidad="E48" Unidad="Unidad de servicio" Descripcion="DIA 09 DE MAYO DEL 2023 CARGA EN SODIMAC CAPLAN PLACAS 60AD8J" ValorUnitario="2800" Importe="2800.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2800.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="448.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="81141601" NoIdentificacion="3" Cantidad="1.00" ClaveUnidad="E48" Unidad="Unidad de servicio" Descripcion="DIA 10 DE MAYO DEL 2023 CARGA EN DS TEPOZOTLAN PLACAS 38AA4J" ValorUnitario="2438" Importe="2438.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2438.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="390.08" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="81141601" NoIdentificacion="4" Cantidad="1.00" ClaveUnidad="E48" Unidad="Unidad de servicio" Descripcion="DIA 11 DE MAYO DEL 2023 CARGA EN URBAN FIT PLACAS 38AA4J" ValorUnitario="3100" Importe="3100.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3100.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="496.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="81141601" NoIdentificacion="5" Cantidad="1.00" ClaveUnidad="E48" Unidad="Unidad de servicio" Descripcion="DIA 11 DE MAYO DEL 2023 CARGA EN SODIMAC CAPLAN PLACAS 60AD8J" ValorUnitario="2800" Importe="2800.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2800.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="448.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="81141601" NoIdentificacion="6" Cantidad="1.00" ClaveUnidad="E48" Unidad="Unidad de servicio" Descripcion="DIA 12 DE MAYO DEL 2023 CARGA EN DS TEPOZOTLAN PLACAS 38AA4J" ValorUnitario="3100" Importe="3100.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3100.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="496.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="81141601" NoIdentificacion="7" Cantidad="1.00" ClaveUnidad="E48" Unidad="Unidad de servicio" Descripcion="DIA 12 DE MAYO DEL 2023 CARGA EN MERCADAZO PLACAS 60AD8J" ValorUnitario="3100" Importe="3100.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3100.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="496.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="3219.68">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="20123.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3219.68" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="0D39BDDC-03EB-4A8E-81C2-A8A79A3A2F12" FechaTimbrado="2023-06-15T21:25:36" RfcProvCertif="SAT970701NN3" SelloCFD="aGXApBe50ShTjJp5AJJKrsLXm24cbJS1WzqNEUpgMnDqEQja2Hdfwit0RGk+zaxOP196NQHmraf+wxgNnd3czf2/FW9gvhH+maMTe6JxdZUjs9nbxwGzr/+IcTF7eEb5AqwFGDUUNl6HcNUde6vk64/Gi6XDMJrGlXJYPnJSIC4Uojhkksq0msUJIiLxO9CaupEXWTWAWoka/esV9J8bB7vyc4xcPuj+LNbevXg+sdW5oJBhLmFR+nju0pQza6LNEh1+j3G+uCBOyu+fy4HcFF5J/TBFa8OWguViJhOIetO+3aPDKvAhm46tntoeot3YSf8S5UOeEhyEudOTehP4vw==" NoCertificadoSAT="00001000000504465028" SelloSAT="oZxO7x04sUs+W/3xIkXUgZ0BixMKcB3fPCxPJh6MBZhXPn+t8lYEeW8c7M+S5rABJOcXPVnL2ViEeJS6uSfVoDZ4Eii+uCmflHslPxG8leu1Ddot5Hp25lJkaowpN5jVMz9iwBRjgwGUKT9G22oXirVK8fIH1/KFJExIoHiYTjDppIzWzkkuwYW20oO4qexcSWTZpva7rTg7GXFBa1BlWc3S0eACjC9e99QTV4LPgnwcjHdwIJCt489TCFBD3+lmTJnjrqH2YVGjwdPXFH6Z8M5FoaHcxMEiW/12HUu2ildmuwMUY/b2M+Y+7wlqtqByLyaWBvjDJVmGZVATUQfpxw==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
